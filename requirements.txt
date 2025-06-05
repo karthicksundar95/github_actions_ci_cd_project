@@ -6,3 +6,7 @@ mlflow
 
 # python testing
 pytest
+
+
+#general
+flask
